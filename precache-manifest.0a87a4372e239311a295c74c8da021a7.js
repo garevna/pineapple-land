@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple-land/browserconfig.xml"
   },
   {
-    "revision": "474b4257b9e150769a3f",
+    "revision": "61165a7cefd1e6345de0",
     "url": "/pineapple-land/css/app.c20e9f32.css"
   },
   {
@@ -420,12 +420,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple-land/img/testimonials/default.png"
   },
   {
-    "revision": "2152c3af0baf503250474a0910e2c133",
+    "revision": "48f927ffb4767e1561ee6b3efdb42744",
     "url": "/pineapple-land/index.html"
   },
   {
-    "revision": "474b4257b9e150769a3f",
-    "url": "/pineapple-land/js/app.ba8f8a51.js"
+    "revision": "61165a7cefd1e6345de0",
+    "url": "/pineapple-land/js/app.80b322cd.js"
   },
   {
     "revision": "b46a5d118753d71f09d1",
