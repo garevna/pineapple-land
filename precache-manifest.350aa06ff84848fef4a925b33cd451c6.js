@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/browserconfig.xml"
   },
   {
-    "revision": "9e43ef25d1210d180918",
-    "url": "/pineapple.net/css/app.05a76286.css"
+    "revision": "27e11d2f410b41921878",
+    "url": "/pineapple.net/css/app.c20e9f32.css"
   },
   {
-    "revision": "265b6350e0384ed89eab",
+    "revision": "b46a5d118753d71f09d1",
     "url": "/pineapple.net/css/chunk-vendors.3beb21ea.css"
   },
   {
@@ -420,16 +420,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/testimonials/default.png"
   },
   {
-    "revision": "cdc7178256556e460c179c368c553860",
+    "revision": "fe99ad1313c717eb330a4b1347f8e283",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "9e43ef25d1210d180918",
-    "url": "/pineapple.net/js/app.db8d953f.js"
+    "revision": "27e11d2f410b41921878",
+    "url": "/pineapple.net/js/app.b40a5085.js"
   },
   {
-    "revision": "265b6350e0384ed89eab",
-    "url": "/pineapple.net/js/chunk-vendors.46200cdb.js"
+    "revision": "b46a5d118753d71f09d1",
+    "url": "/pineapple.net/js/chunk-vendors.1c153c63.js"
   },
   {
     "revision": "841bd1473e1d2143bc8256f991db7ed8",
