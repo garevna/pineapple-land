@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple-land/browserconfig.xml"
   },
   {
-    "revision": "7a11a84a5a1f8124500c",
-    "url": "/pineapple-land/css/app.03fc0bae.css"
+    "revision": "a117a71d7b691e725ded",
+    "url": "/pineapple-land/css/app.b2966504.css"
   },
   {
-    "revision": "1e08ec40d0f1e6f88829",
-    "url": "/pineapple-land/css/chunk-vendors.6243c716.css"
+    "revision": "99035e4b999bd03d7ffd",
+    "url": "/pineapple-land/css/chunk-vendors.7f9bbfb1.css"
   },
   {
     "revision": "3ee088ebf456531c3c79586af139b62f",
@@ -420,16 +420,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple-land/img/testimonials/default.png"
   },
   {
-    "revision": "6ad7c72f0dc80328994e77ad8f4acad8",
+    "revision": "0a23fb00475f4b49b4a18a76762349aa",
     "url": "/pineapple-land/index.html"
   },
   {
-    "revision": "7a11a84a5a1f8124500c",
-    "url": "/pineapple-land/js/app.e87968a9.js"
+    "revision": "a117a71d7b691e725ded",
+    "url": "/pineapple-land/js/app.99a12932.js"
   },
   {
-    "revision": "1e08ec40d0f1e6f88829",
-    "url": "/pineapple-land/js/chunk-vendors.1c0c7c48.js"
+    "revision": "99035e4b999bd03d7ffd",
+    "url": "/pineapple-land/js/chunk-vendors.8e490ba2.js"
   },
   {
     "revision": "841bd1473e1d2143bc8256f991db7ed8",
