@@ -420,7 +420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple-land/img/testimonials/default.png"
   },
   {
-    "revision": "d84cf27780199745dc1c1b6fd54ff0fd",
+    "revision": "9ad426a0db3d79322fdcefa694e997ab",
     "url": "/pineapple-land/index.html"
   },
   {
